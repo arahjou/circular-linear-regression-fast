@@ -9,8 +9,6 @@ Date: 28.01.2026
 ## Technical Report: Modifications to `lm.circular.cl` from the R `circular` Package
 
 **Date:** January 2026\
-**Purpose:** Documentation of algorithm modifications for academic
-publication
 
 ------------------------------------------------------------------------
 
