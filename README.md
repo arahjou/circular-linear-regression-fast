@@ -1,7 +1,7 @@
 ---
-editor_options: 
-  markdown: 
-    wrap: 72
+Author: Dr. Ali Rahjouei
+Email: ali.rahjouei@gmail.com
+Date: 28.01.2026
 ---
 
 # Optimization of Circular-Linear Regression Algorithm
