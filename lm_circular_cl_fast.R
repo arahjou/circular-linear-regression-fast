@@ -3,8 +3,23 @@
 #   lm_circular_cl_fast - Optimized Circular-Linear         #
 #   Regression with dual convergence criteria               #
 #                                                           #
-#   Based on original by Claudio Agostinelli                #
-#   Optimized version with fixes for convergence issues     #
+#   Copyright (C) 2026 Dr. Ali Rahjouei                     #
+#   Email: ali.rahjouei@gmail.com                           #
+#                                                           #
+#   This is a modified version of lm.circular.cl from       #
+#   the 'circular' R package (version 0.5-1)                #
+#   Original Copyright (C) Claudio Agostinelli & Ulric Lund #
+#   https://CRAN.R-project.org/package=circular             #
+#                                                           #
+#   Licensed under GPL-2                                    #
+#   See LICENSE file for full license text                  #
+#                                                           #
+#   MODIFICATIONS:                                          #
+#   - Added maximum iteration limit                         #
+#   - Implemented dual convergence criteria                 #
+#   - Vectorized matrix operations                          #
+#   - Direct linear system solution                         #
+#   See README.md for detailed technical documentation      #
 #                                                           #
 #############################################################
 

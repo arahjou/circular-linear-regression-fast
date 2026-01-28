@@ -14,6 +14,28 @@ publication
 
 ------------------------------------------------------------------------
 
+## Copyright and License
+
+This software contains modified code from the `circular` R package:
+
+- **Original Work:** `lm.circular.cl` function from circular package (version 0.5-1)
+- **Original Authors:** Claudio Agostinelli and Ulric Lund
+- **Original Repository:** https://CRAN.R-project.org/package=circular
+- **Original License:** GPL-2
+
+**Modifications:** Copyright (C) 2026 Dr. Ali Rahjouei
+
+This modified version is also licensed under **GPL-2**. See the LICENSE file for the complete license text.
+
+**Citation for original work:**
+```
+Agostinelli, C. and Lund, U. (2017). R package 'circular': 
+Circular Statistics (version 0.5-1).
+https://CRAN.R-project.org/package=circular
+```
+
+------------------------------------------------------------------------
+
 ## 1. Introduction
 
 The original `lm.circular.cl` function from the R `circular` package
